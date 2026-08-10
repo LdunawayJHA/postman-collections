@@ -1,0 +1,18 @@
+{
+  "info": {
+    "_postman_id": "1af3c070-492c-48dc-9c1f-acbf243b3434",
+    "name": "_Baseline",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "32425938"
+  },
+  "item": [
+    {
+      "name": "Health Check",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
